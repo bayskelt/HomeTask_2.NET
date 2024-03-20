@@ -8,7 +8,7 @@ namespace HomeTask_2.NET
             Console.Write("Введiть кiлькiсть грошей у Петрика: ");
             decimal s = decimal.Parse(Console.ReadLine());
 
-            Console.Write("Введiть цiну одного зошита: ");
+            Console.Write("\nВведiть цiну одного зошита: ");
             decimal x = decimal.Parse(Console.ReadLine());
             Console.Write("Введiть цiну одної ручки: ");
             decimal y = decimal.Parse(Console.ReadLine());
